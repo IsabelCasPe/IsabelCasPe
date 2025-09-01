@@ -62,3 +62,8 @@ Este perfil e os repositórios aqui destacados estão sob a licença [MIT Licens
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+## 🐍 Snake eating my contributions
+
+![snake gif](https://github.com/IsabelCasPe/IsabelCasPe/blob/output/snake.svg)
+
+
