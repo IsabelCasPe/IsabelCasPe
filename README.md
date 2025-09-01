@@ -46,7 +46,7 @@ Descubra meus repositórios com exercícios, códigos e aplicações em **Matem�
 - 📚 [**Applied-Math-Colloquia**](https://github.com/IsabelCasPe/Applied-Math-Colloquia)  
   Livros e materiais avançados em Matemática Aplicada.  
 
-- 📚 [**Optimal-Control-Systems**](https://github.com/IsabelCasPe/Optimal-Control-Systems)  
+- 📚 [**Optimal-Control-Systems**](https://github.com/IsabelCasPe/Optimal-Control-Systems)   
   Slides e códigos de Controle Ótimo para Finanças e Engenharia.  
 
 - 🎥 [**Math-Dynamics**](https://github.com/IsabelCasPe/Math-Dynamics)  
