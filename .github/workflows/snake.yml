@@ -19,11 +19,12 @@ jobs:
           outputs: |
             dist/snake.svg
 
-      - name: Publish to GitHub Pages (branch output)
+      - name: Publish to GitHub Pages branch 'output'
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
