@@ -61,10 +61,11 @@ Descubra meus repositórios com exercícios, códigos e aplicações em **Matem�
 Este perfil e os repositórios aqui destacados estão sob a licença [MIT License](https://opensource.org/licenses/MIT).  
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ---
 
 ## 🐍 Snake Chiquerrima: Devorando Contribuições!
 
-<img src="https://raw.githubusercontent.com/IsabelCasPe/output/main/snake.svg" alt="Chiquerrima Snake" style="background: linear-gradient(to right, #1A1A2E, #00D4FF); padding: 10px; border-radius: 10px; max-width: 100%;">
+<img src="https://raw.githubusercontent.com/IsabelCasPe/IsabelCasPe/output/snake.svg" alt="Chiquerrima Snake" style="background: linear-gradient(to right, #1A1A2E, #00D4FF); padding: 10px; border-radius: 10px; max-width: 100%;">
 
 
