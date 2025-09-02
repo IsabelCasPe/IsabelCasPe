@@ -64,7 +64,7 @@ Este perfil e os repositórios aqui destacados estão sob a licença [MIT Licens
 
 ---
 
-## 🐍 Snake Chiquerrima: Devorando Contribuições!
+## 🐍 Snake  eating my contributions!
 
 <img src="https://raw.githubusercontent.com/IsabelCasPe/IsabelCasPe/output/snake.svg" alt="Chiquerrima Snake" style="background: linear-gradient(to right, #1A1A2E, #00D4FF); padding: 10px; border-radius: 10px; max-width: 100%;">
 
