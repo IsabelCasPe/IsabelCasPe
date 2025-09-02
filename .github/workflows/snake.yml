@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Chiquerrima Snake
 
 on:
   schedule:
@@ -12,18 +12,38 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVG
+      - name: Generate chiquerrima snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: IsabelCasPe
           outputs: |
             dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark  # Opção escura
+          palette: |
+            #1A1A2E, #D4A017, #00D4FF  # spaceblack, metgold, neonblue
+          background: "#1A1A2E"  # Fundo spaceblack
+          snake_border_radius: 8  # Cobra mais arredondada e chique
+          snake_thickness: 4     # Cobra mais grossa
+          speed: 1              # Movimento suave
+          # Adiciona estrelas ou gradiente (via CSS no README, veja abaixo)
 
       - name: Publish to GitHub Pages branch 'output'
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Add chique README reference
+        run: |
+          echo "<!-- SNAKE -->" > README.md
+          echo "<img src='https://raw.githubusercontent.com/IsabelCasPe/output/main/snake.svg' alt='Chiquerrima Snake' style='background: linear-gradient(to right, #1A1A2E, #00D4FF); padding: 10px; border-radius: 10px;'>" >> README.md
+          git config --global user.name "IsabelCasPe"
+          git config --global user.email "anacp20@gmail.com"
+          git add README.md
+          git commit -m "Update chiquerrima snake in README"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
