@@ -22,6 +22,7 @@ Descubra meus repositórios com exercícios, códigos e aplicações em **Matem�
 - ⚙️📈 [**Pipeline Analytics Dashboard**](https://github.com/IsabelCasPe/Pipeline-analytics-dashboard)
 Um painel **enxuto e claro** para acompanhar o funil comercial — *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.  
 > *“O dado conta a história; o desenho só abre caminho.”* 💙
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](#technologies-used)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](#dashboard)  
