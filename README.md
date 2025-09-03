@@ -16,8 +16,15 @@
 
 Descubra meus repositórios com exercícios, códigos e aplicações em **Matemática Aplicada, Sistemas Dinâmicos e Finanças Quantitativas**:  
 
-- 🌐📊 [**QuantDataScienceX**](https://github.com/IsabelCasPe/QuantDataScienceX)  
-  Ciência de Dados com foco em aplicações quantitativas e financeiras.  
+- 🌐📊 [**QuantDataScienceX**](https://github.com/IsabelCasPe/QuantDataScienceX)
+  Ciência de Dados com foco em aplicações quantitativas e financeiras.
+
+- ⚙️📈 [**Pipeline Analytics Dashboard**](https://github.com/IsabelCasPe/Pipeline-analytics-dashboard)
+Um painel **enxuto e claro** para acompanhar o funil comercial — *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.  
+> *“O dado conta a história; o desenho só abre caminho.”* 💙
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](#technologies-used)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](#dashboard)  
 
 - 📚 [**Fourier-EDP-Solutions**](https://github.com/IsabelCasPe/Fourier-EDP-Solutions)  
   Exercícios de Séries de Fourier e Equações Diferenciais Parciais.  
