@@ -12,7 +12,7 @@
 
 ⚡ *Turning chaos into quant insights — one model at a time.*
 ---
-![Mandelbrot Quântico](mandelbrot_quantum_dynamic_presentation.gif)
+![✨🌌 Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece. 💻🌀](mandelbrot_quantum_dynamic_presentation.gif) 
 ---
 ## 🔢 Featured Repositories
 
