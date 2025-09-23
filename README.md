@@ -12,6 +12,8 @@
 
 ⚡ *Turning chaos into quant insights — one model at a time.*
 ---
+![Mandelbrot Quântico](mandelbrot_quantum_dynamic_presentation.gif)
+---
 ## 🔢 Featured Repositories
 
 Descubra meus repositórios com exercícios, códigos e aplicações em **Matemática Aplicada, Sistemas Dinâmicos e Finanças Quantitativas**:  
