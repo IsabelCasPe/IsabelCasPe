@@ -87,9 +87,9 @@ Este perfil e os repositórios aqui destacados estão sob a licença [MIT Licens
 
 ---
 ## Contato
-[LinkedIn](https://www.linkedin.com/in/ana-isabel-castillo-pereda-142b0996) · [Email](mailto:anacp20@gmail.com) · [Scholar/ORCID](https://orcid.org/my-orcid?orcid=0009-0002-7077-5971)
+[LinkedIn](https://www.linkedin.com/in/ana-isabel-castillo-pereda-142b0996/) · E-mail:[anacp20@gmail.com](mailto:anacp20@gmail.com) · [ORCID: 0009-0002-7077-5971](https://orcid.org/0009-0002-7077-5971)
 
-> @IsabelCasPe 💙 - “Cosmos em código: ciência que vira arte.” 💎
+> @IsabelCasPe 💙  “Cosmos em código: ciência que vira arte.” 💎
 ---
 
 ## 🐍 Snake  eating my contributions!
