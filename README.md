@@ -12,6 +12,9 @@
 ## Hi there, I'm Ana Isabel Castillo! 👋  
 
 ✨ Pesquisadora e professora em **Matemática Aplicada** e **Finanças Quantitativas**, com paixão por **Ciência de Dados, Risco Sistêmico e Modelos em Rede**.  
+[![USP](https://img.shields.io/badge/USP-Dissertação-0A3D91?logo=academia&logoColor=white)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969)
+
 
 🔭 Atualmente desenvolvendo projetos no repositório [QuantDataScienceX](https://github.com/IsabelCasPe/QuantDataScienceX).  
 🌱 Aprimorando análises com **Python, LaTeX e Machine Learning** aplicados a finanças.  
