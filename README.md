@@ -78,11 +78,11 @@ Descubra meus repositórios com exercícios, códigos e aplicações em **Matem�
 > *“O dado conta a história; o desenho só abre caminho.”* 💙
 ---
 
-[![RiskMeasures](https://img.shields.io/badge/📘_Risk_Measures-## 🔒 Projetos de acesso reservado (VIP)-yellow)]()  
-[![MachineLearning](https://img.shields.io/badge/🤖_Machine_Learning-## 🔒 Projetos de acesso reservado (VIP)-orange)]()  
-[![IsAcolab_notebooks](https://img.shields.io/badge/💻_IsAcolab_notebooks-## 🔒 Projetos de acesso reservado (VIP)-lightgrey)]()  
-[![RedesFinanceiras](https://img.shields.io/badge/🌐_Redes_Financeiras-## 🔒 Projetos de acesso reservado (VIP)-blue)]()  
-[![ModelosEstocasticos](https://img.shields.io/badge/📊_Modelos_Estocástico-## 🔒 Projetos de acesso reservado (VIP)-purple)]()
+[![RiskMeasures](https://img.shields.io/badge/📘_Risk_Measures_🔒_Projetos_de_acesso_reservado(VIP)-yellow)]()  
+[![MachineLearning](https://img.shields.io/badge/🤖_Machine_Learning_🔒_Projetos_de_acesso_reservado(VIP)-orange)]()  
+[![IsAcolab_notebooks](https://img.shields.io/badge/💻_IsAcolab_notebooks_🔒_Projetos_de_acesso_reservado(VIP)-lightgrey)]()  
+[![RedesFinanceiras](https://img.shields.io/badge/🌐_Redes_Financeiras_🔒_Projetos_de_acesso_reservado(VIP)-blue)]()  
+[![ModelosEstocasticos](https://img.shields.io/badge/📊_Modelos_Estocástico_🔒_Projetos_de_acesso_reservado(VIP)-purple)]()
 ---
 ⚡ *Turning chaos into quant insights — one model at a time.*
 ---
