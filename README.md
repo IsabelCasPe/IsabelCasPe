@@ -39,8 +39,6 @@
 
 **Descubra meus repositórios** com exercícios, códigos e aplicações em **Matemática Aplicada, Sistemas Dinâmicos e Finanças Quantitativas**:  
 
----
-
 [![QuantDataScienceX](https://img.shields.io/badge/🌐📊_QuantDataScienceX-Ciência_de_Dados_&_Finanças-1E90FF)](https://github.com/IsabelCasPe/QuantDataScienceX)  
  **Ciência de Dados** com foco em aplicações quantitativas e financeiras.
 
@@ -85,7 +83,7 @@
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](#technologies-used)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](#dashboard) 
 > *“O dado conta a história; o desenho só abre caminho.”* 💙
----
+
 ## 🔒 Projetos de acesso reservado (VIP)
 
 [![RiskMeasures](https://img.shields.io/badge/📘_Risk_Measures_🔒_(VIP)-yellow)]()  
