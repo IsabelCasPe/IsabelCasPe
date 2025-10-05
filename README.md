@@ -1,5 +1,7 @@
 <!-- HERO -->
-# 🌌 **Applied Mathematics 💎♾️**
+<p align="center">
+  <img src="https://img.shields.io/badge/🌌_Applied_Mathematics_💎♾️-0A3D91?style=for-the-badge&logo=apachespark&logoColor=white">
+</p>
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-1E90FF?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-FFD700)
