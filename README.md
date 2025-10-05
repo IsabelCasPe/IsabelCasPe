@@ -106,17 +106,6 @@
 
 ---
 
-> 💡 *Entre fórmulas e fractais, há poesia - e propósito.* 💫
-
-<p align="center">
-  <img src="https://img.shields.io/badge/✨_Ciência,_arte_e_liberdade-💫_minha_tríade_infinita-FFD700?style=for-the-badge&logo=starship&logoColor=white" alt="assinatura cósmica"/>
-</p>
-
-<p align="center">
-  <b>@IsabelCasPe</b> 👑 💙 — “Cosmos em código: ciência que vira arte.” 🌐 💎 ♾
-</p>
-
----
 ## 📜 License
 
 Este perfil e os repositórios aqui destacados estão sob a licença :
@@ -132,8 +121,12 @@ Este perfil e os repositórios aqui destacados estão sob a licença :
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/✨_Ciência,_arte_e_liberdade_-_minha_tríade_infinita.-FFD700?style=for-the-badge&logo=starship&logoColor=white">
-  <br>
-  <sub><strong>@IsabelCasPe 💙</strong> · “Entre fórmulas e fractais, há poesia — e propósito.”</sub>
+  <img src="https://img.shields.io/badge/✨_Ciência,_arte_e_liberdade_💫_minha_tríade_infinita.-FFD700?style=for-the-badge&logo=starship&logoColor=white">
+  <br><br>
+  <b>@IsabelCasPe</b> 👑 💙 — “Cosmos em código: ciência que vira arte.” 🌐 💎 ♾️  
+  <br><br>
+  💡 <i>“Entre fórmulas e fractais, há poesia — e propósito.”</i>  
 </p>
+
+
 
