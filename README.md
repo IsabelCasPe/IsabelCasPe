@@ -84,16 +84,18 @@
 **Um painel** **enxuto e claro** para acompanhar o funil comercial — *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.  
 > *“O dado conta a história; o desenho só abre caminho.”* 💙
 ---
+## 🔒 Projetos de acesso reservado (VIP)
 
-[![RiskMeasures](https://img.shields.io/badge/📘_Risk_Measures_🔒_Projetos_de_acesso_reservado(VIP)-yellow)]()  
-[![MachineLearning](https://img.shields.io/badge/🤖_Machine_Learning_🔒_Projetos_de_acesso_reservado(VIP)-orange)]()  
-[![IsAcolab_notebooks](https://img.shields.io/badge/💻_IsAcolab_notebooks_🔒_Projetos_de_acesso_reservado(VIP)-lightgrey)]()  
-[![RedesFinanceiras](https://img.shields.io/badge/🌐_Redes_Financeiras_🔒_Projetos_de_acesso_reservado(VIP)-blue)]()  
-[![ModelosEstocasticos](https://img.shields.io/badge/📊_Modelos_Estocástico_🔒_Projetos_de_acesso_reservado(VIP)-purple)]()
+[![RiskMeasures](https://img.shields.io/badge/📘_Risk_Measures_🔒_(VIP)-yellow)]()  
+[![MachineLearning](https://img.shields.io/badge/🤖_Machine_Learning_🔒_(VIP)-orange)]()  
+[![IsAcolab_notebooks](https://img.shields.io/badge/💻_IsAcolab_notebooks_🔒_(VIP)-lightgrey)]()  
+[![RedesFinanceiras](https://img.shields.io/badge/🌐_Redes_Financeiras_🔒_(VIP)-blue)]()  
+[![ModelosEstocasticos](https://img.shields.io/badge/📊_Modelos_Estocásticos_🔒_(VIP)-purple)]()
 
 ---
 
 ## 📜 License
+
 Este perfil e os repositórios aqui destacados estão sob a licença [MIT License](https://opensource.org/licenses/MIT). 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](#technologies-used)
