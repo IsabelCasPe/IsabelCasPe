@@ -1,5 +1,5 @@
 <!-- HERO -->
-### Applied Mathematics💎♾️
+# Applied Mathematics💎♾️
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
@@ -35,7 +35,7 @@ Descubra meus repositórios com exercícios, códigos e aplicações em **Matem�
 ---
 
 [![QuantDataScienceX](https://img.shields.io/badge/🌐📊_QuantDataScienceX-Ciência_de_Dados_&_Finanças-1E90FF)](https://github.com/IsabelCasPe/QuantDataScienceX)  
-## Ciência de Dados com foco em aplicações quantitativas e financeiras.
+### Ciência de Dados com foco em aplicações quantitativas e financeiras.
 
 [![Fourier-EDP-Solutions](https://img.shields.io/badge/📚_Fourier_EDP_Solutions-Equações_Diferenciais_&_Fourier-4169E1)](https://github.com/IsabelCasPe/Fourier-EDP-Solutions)  
 ## Exercícios de Séries de Fourier e Equações Diferenciais Parciais.
