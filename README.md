@@ -21,15 +21,12 @@
 💬 Adoro compartilhar conhecimento em **Cálculo, EDOs, EDPs e Estatística**.  
 📫 Como me encontrar:  
 [![Website](https://img.shields.io/badge/🌍_Site_Pessoal-isabelcaspe.github.io-1E90FF?logo=githubpages&logoColor=white)](https://isabelcaspe.github.io/)
+
 [![Superprof](https://img.shields.io/badge/📚_Superprof-Aulas_de_Matemática_Aplicada-FF69B4?logo=googleclassroom&logoColor=white)](https://www.superprof.com.br/doutoranda-matematica-aplicada-ime-usp-mestre-ciencias-pela-pme-escola-politecnica-usp-ofereco-reforco-calculo.html)
-[![GitHub](https://img.shields.io/badge/🐱_GitHub-IsabelCasPe-181717?logo=github&logoColor=white)](https://github.com/IsabelCasPe)
+
+[![GitHub](https://img.shields.io/badge/🐱_GitHub-IsabelCasPe-0047AB?logo=github&logoColor=white)](https://github.com/IsabelCasPe)
 
 
-⚡ *Turning chaos into quant insights — one model at a time.*
----
-✨🌌 Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece. 💻🌀
-**![Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece.](mandelbrot_quantum_dynamic_presentation.gif)** 
----
 ## 🔢 Featured Repositories
 
 Descubra meus repositórios com exercícios, códigos e aplicações em **Matemática Aplicada, Sistemas Dinâmicos e Finanças Quantitativas**:  
@@ -72,7 +69,11 @@ Um painel **enxuto e claro** para acompanhar o funil comercial — *stages*, con
 [![SistemasDinamicos](https://img.shields.io/badge/💻_Sistemas_Dinâmicos-Em_Desenvolvimento-lightgrey)]()  
 [![RedesFinanceiras](https://img.shields.io/badge/🌐_Redes_Financeiras-Em_Desenvolvimento-blue)]()  
 [![ModelosEstocasticos](https://img.shields.io/badge/📊_Modelos_Estocásticos-Em_Desenvolvimento-purple)]()
-
+---
+⚡ *Turning chaos into quant insights — one model at a time.*
+---
+✨🌌 Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece. 💻🌀
+**![Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece.](mandelbrot_quantum_dynamic_presentation.gif)** 
 ---
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
