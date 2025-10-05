@@ -1,6 +1,7 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🌌_APPLIED_MATHEMATICS_💎♾️_-0A3D91?style=for-the-badge&logo=cosmosdb&logoColor=white&labelColor=001F3F&color=1E90FF">
+  <h1 style="font-size: 3em; color: #1E90FF; text-shadow: 2px 2px 4px #000000;">🌌 Matemática Aplicada ♾️</h1>
+  <p style="font-size: 1.2em; color: #FFFFFF;">Explorando o Infinito com Códigos e Números </p>
 </p>
 
 
