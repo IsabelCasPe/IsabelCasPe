@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-gold)
 ![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
 
-**PT · EN · ES** · ![Galeria](#galeria--gifs) · ![Instalação](#instalação--installation--instalación) 
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) 
 
 ---
 ## Hi there, I'm Ana Isabel Castillo! 👋  
