@@ -106,8 +106,11 @@
 
 ---
 
-> 🌟 **@IsabelCasPe 💛 — “Cosmos em código: ciência que vira arte.”**  
+> 🌟 **@IsabelCasPe 👑 — “Cosmos em código: ciência que vira arte.”**  
 > 💡 *Entre fórmulas e fractais, há poesia — e propósito.*
+> 💫 “Ciência, arte e liberdade — minha tríade infinita.”  ♾️
+> 🌐 💎 💙
+
 
 ---
 ## 📜 License
