@@ -1,6 +1,7 @@
 <!-- HERO -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/🌌_APPLIED_MATHEMATICS_💎_♾️_-0A3D91?style=for-the-badge&logo=cosmosdb&logoColor=white&labelColor=001F3F&color=0A3D91">
+  <img src="https://img.shields.io/badge/🌌_APPLIED_MATHEMATICS_💎_♾️_-0A3D91?style=flat&logo=cosmosdb&logoColor=white&labelColor=001F3F&color=0A3D91&scale=4" alt="Applied Mathematics Title">
 </p>
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-1E90FF?logo=python&logoColor=white)
