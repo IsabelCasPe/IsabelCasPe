@@ -30,7 +30,7 @@
 
 ## 🔢 Featured Repositories
 
-Descubra meus repositórios com exercícios, códigos e aplicações em **Matemática Aplicada, Sistemas Dinâmicos e Finanças Quantitativas**:  
+**Descubra meus repositórios** com exercícios, códigos e aplicações em **Matemática Aplicada, Sistemas Dinâmicos e Finanças Quantitativas**:  
 
 ---
 
@@ -90,25 +90,22 @@ Descubra meus repositórios com exercícios, códigos e aplicações em **Matem�
 **![Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece.](mandelbrot_quantum_dynamic_presentation.gif)** 
 ---
 
+## 📜 License
+Este perfil e os repositórios aqui destacados estão sob a licença [MIT License](https://opensource.org/licenses/MIT). 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](#technologies-used)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](#dashboard)  
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](#dashboard) 
 
----
-
-## 📜 License
-
-Este perfil e os repositórios aqui destacados estão sob a licença [MIT License](https://opensource.org/licenses/MIT).  
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 ## Contato
+
 [LinkedIn](https://www.linkedin.com/in/ana-isabel-castillo-pereda-142b0996/) · E-mail:[anacp20@gmail.com](mailto:anacp20@gmail.com) · [ORCID: 0009-0002-7077-5971](https://orcid.org/0009-0002-7077-5971)
 
 > @IsabelCasPe 💙  “Cosmos em código: ciência que vira arte.” 💎
 > 
-> 💡 *“Entre fórmulas e fractais, há poesia — e propósito.”*  
+> 💡 *“Entre fórmulas e fractais, há poesia — e propósito.”*
+
 ---
 
 ## 🐍 Snake  eating my contributions!
