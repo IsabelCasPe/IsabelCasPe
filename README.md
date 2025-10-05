@@ -82,6 +82,8 @@
 
 [![Pipeline-Analytics-Dashboard](https://img.shields.io/badge/⚙️📈_Pipeline_Analytics_Dashboard-Funil_Comercial_e_Visualização-4682B4)](https://github.com/IsabelCasPe/Pipeline-analytics-dashboard)  
 **Um painel** **enxuto e claro** para acompanhar o funil comercial — *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.  
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](#technologies-used)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](#dashboard) 
 > *“O dado conta a história; o desenho só abre caminho.”* 💙
 ---
 ## 🔒 Projetos de acesso reservado (VIP)
@@ -98,9 +100,6 @@
 
 Este perfil e os repositórios aqui destacados estão sob a licença [MIT License](https://opensource.org/licenses/MIT). 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB.svg)](#technologies-used)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](#dashboard) 
-
 
 ---
 ## Contato
