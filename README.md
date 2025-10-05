@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-gold)
 ![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
 
-**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
+**PT · EN · ES** · ![Galeria](#galeria--gifs) · ![Instalação](#instalação--installation--instalación) 
 
 ---
 ## Hi there, I'm Ana Isabel Castillo! 👋  
@@ -98,13 +98,16 @@
 
 ## 📜 License
 
-Este perfil e os repositórios aqui destacados estão sob a licença [MIT License](https://opensource.org/licenses/MIT). 
+Este perfil e os repositórios aqui destacados estão sob a licença :
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 
 ---
-## Contato
 
-[LinkedIn](https://www.linkedin.com/in/ana-isabel-castillo-pereda-142b0996/) · E-mail:[anacp20@gmail.com](mailto:anacp20@gmail.com) · [ORCID: 0009-0002-7077-5971](https://orcid.org/0009-0002-7077-5971)
+## 📬 Contato  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana%20Isabel%20Castillo%20Pereda-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-isabel-castillo-pereda-142b0996/)
+[![Email](https://img.shields.io/badge/E--mail-anacp20%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:anacp20@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7077--5971-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7077-5971)
 
 > @IsabelCasPe 💙  “Cosmos em código: ciência que vira arte.” 💎
 > 
