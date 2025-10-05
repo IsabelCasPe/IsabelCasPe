@@ -112,8 +112,13 @@
 
 > 💫 “Ciência, arte e liberdade - minha tríade infinita.”  ♾️
 
-> 🌐 💎 💙
+<p align="center">
+  <img src="https://img.shields.io/badge/✨_Ciência,_arte_e_liberdade-💫_minha_tríade_infinita-FFD700?style=for-the-badge&logo=starship&logoColor=white" alt="assinatura cósmica"/>
+</p>
 
+<p align="center">
+  <b>@IsabelCasPe</b> 💙 — “Cosmos em código: ciência que vira arte.” 🌐 💎
+</p>
 
 ---
 ## 📜 License
