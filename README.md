@@ -29,10 +29,10 @@
 
 [![GitHub](https://img.shields.io/badge/🐱_GitHub-IsabelCasPe-FFD700?logo=github&logoColor=black)](https://github.com/IsabelCasPe)
 
-⚡ *Turning chaos into quant insights — one model at a time.*
+# ⚡ *Turning chaos into quant insights — one model at a time.*
+
 ✨🌌 Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece. 💻🌀
 **![Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece.](mandelbrot_quantum_dynamic_presentation.gif)** 
-
 
 ---
 
