@@ -142,3 +142,8 @@ Este perfil e os repositórios aqui destacados estão sob a licença :
   <img src="https://img.shields.io/badge/✨_Artur_Ávila_Approved-FFD700?style=for-the-badge&logo=starship&logoColor=white&labelColor=0A3D91" alt="Artur Ávila Approved">
 </p>
 
+<p align="center">
+  <img src="Mandelbrot_Insanee.gif" alt="@IsabelCasPe - Maths Quantum Ultra Mandelbrot" width="400">
+  <br>
+  ✨ Arte + Ciência: Python + Matplotlib no caos quântico do Mandelbrot. PP BoBo, meu fractal é imbatível! 😎 💻🌀
+</p>
