@@ -17,15 +17,15 @@
 [![USP](https://img.shields.io/badge/USP-Dissertação-0A3D91?logo=academia&logoColor=white)](https://teses.usp.br/teses/disponiveis/3/3151/tde-20102010-122044/en.php)
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969)
 
-🔭 Atualmente desenvolvendo projetos no repositório  
-[![QuantDataScienceX](https://img.shields.io/badge/🌐📊_QuantDataScienceX-Ciência_de_Dados_&_Finanças-1E90FF)](https://github.com/IsabelCasPe/QuantDataScienceX)
-
+🔭 Atualmente desenvolvendo projetos no repositório  [![QuantDataScienceX](https://img.shields.io/badge/🌐📊_QuantDataScienceX-Ciência_de_Dados_&_Finanças-1E90FF)](https://github.com/IsabelCasPe/QuantDataScienceX)
 🌱 Aprimorando análises com **Python, LaTeX e Machine Learning** aplicados a finanças.  
 💬 Adoro compartilhar conhecimento em **Cálculo, EDOs, EDPs e Estatística**.  
 📫 Como me encontrar:  
 
 [![Website](https://img.shields.io/badge/🌍_Site_Pessoal-isabelcaspe.github.io-FFD700?logo=githubpages&logoColor=white)](https://isabelcaspe.github.io/)
+
 [![Superprof](https://img.shields.io/badge/📚_Superprof-Aulas_de_Matemática_Aplicada-FF69B4?logo=googleclassroom&logoColor=white)](https://www.superprof.com.br/doutoranda-matematica-aplicada-ime-usp-mestre-ciencias-pela-pme-escola-politecnica-usp-ofereco-reforco-calculo.html)
+
 [![GitHub](https://img.shields.io/badge/🐱_GitHub-IsabelCasPe-FFD700?logo=github&logoColor=black)](https://github.com/IsabelCasPe)
 
 ⚡ *Turning chaos into quant insights — one model at a time.*
@@ -35,13 +35,9 @@
 
 ---
 
-## 🌠 **Featured Repositories**
+## 🌠 **Featured Repositories** 🔢
 
-💎 Repositórios com **códigos, exercícios e simulações** em **Matemática Aplicada, Sistemas Dinâmicos e Finanças Quantitativas**:
-
-## 🔢 Featured Repositories  
-
-**Descubra meus repositórios** com exercícios, códigos e aplicações em **Matemática Aplicada, Sistemas Dinâmicos e Finanças Quantitativas**:  
+💎 **Descubra meus repositórios** com **códigos, exercícios e simulações** em **Matemática Aplicada, Sistemas Dinâmicos e Finanças Quantitativas**: 
 
 [![QuantDataScienceX](https://img.shields.io/badge/🌐📊_QuantDataScienceX-Ciência_de_Dados_&_Finanças-FFD700)](https://github.com/IsabelCasPe/QuantDataScienceX)  
 **Ciência de Dados** com foco em aplicações quantitativas e financeiras.
@@ -104,9 +100,7 @@
 ## 📬 **Contato**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana_Isabel_Castillo_Pereda-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-isabel-castillo-pereda-142b0996/)
-
 [![Email](https://img.shields.io/badge/📧_E--mail-anacp20%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:anacp20@gmail.com)
-
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7077--5971-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7077-5971)
 
 ---
@@ -115,9 +109,13 @@
 > 💡 *Entre fórmulas e fractais, há poesia — e propósito.*
 
 ---
+## 📜 License
 
+Este perfil e os repositórios aqui destacados estão sob a licença :
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 
 ---
+
 
 ## 🐍 Snake  eating my contributions!
 
