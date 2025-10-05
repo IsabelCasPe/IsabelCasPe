@@ -145,5 +145,5 @@ Este perfil e os repositórios aqui destacados estão sob a licença :
 <p align="center">
   <img src="Mandelbrot_Insanee.gif" alt="@IsabelCasPe - Maths Quantum Ultra Mandelbrot" width="400">
   <br>
-  ✨ Arte + Ciência: Python + Matplotlib no caos quântico do Mandelbrot. PP BoBo, meu fractal é imbatível! 😎 💻🌀
+  ✨ Arte + Ciência: Python + Matplotlib - Meu fractal é imbatível! 😎 💻🌀
 </p>
