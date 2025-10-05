@@ -123,9 +123,9 @@ Este perfil e os repositórios aqui destacados estão sob a licença :
 <p align="center">
   <img src="https://img.shields.io/badge/✨_Ciência,_arte_e_liberdade_💫_minha_tríade_infinita.-FFD700?style=for-the-badge&logo=starship&logoColor=white">
   <br><br>
-  <b>@IsabelCasPe</b> 👑 💙 — “Cosmos em código: ciência que vira arte.” 🌐 💎 ♾️  
+  <b>@IsabelCasPe</b> 👑 💙 🌌 “Cosmos em código: ciência que vira arte.” 🌐 💎 ♾️  
   <br><br>
-  💡 <i>“Entre fórmulas e fractais, há poesia — e propósito.”</i>  
+  💡 <i>“Entre fórmulas e fractais, há poesia - e propósito.”</i>  
 </p>
 
 
