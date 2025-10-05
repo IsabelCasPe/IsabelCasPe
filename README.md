@@ -1,9 +1,7 @@
 <!-- HERO -->
 <p align="center">
-  <h1 style="font-size: 3em; color: #1E90FF; text-shadow: 2px 2px 4px #000000;">🌌 Matemática Aplicada ♾️</h1>
-  <p style="font-size: 1.2em; color: #FFFFFF;">Explorando o Infinito com Códigos e Números </p>
+  <img src="https://img.shields.io/badge/🌠_INFINITE_APPLIED_MATHS_♾️-0A3D91?style=for-the-badge&logo=cosmosdb&logoColor=white&labelColor=001F3F&color=1E90FF&scale=3" alt="Infinite Applied Maths Title">
 </p>
-
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-1E90FF?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-FFD700)
