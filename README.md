@@ -53,7 +53,7 @@ Descubra meus repositórios com exercícios, códigos e aplicações em **Matem�
 **Notas e exercícios** sobre **processos estocásticos** e cadeias de Markov.
 
 [![Numerical-Methods](https://img.shields.io/badge/🧮_Numerical_Methods-Métodos_Numéricos-4682B4)](https://github.com/IsabelCasPe/Numerical-Methods)  
-## **Métodos Numéricos** aplicados à Engenharia e Ciências Exatas.
+**Métodos Numéricos** aplicados à Engenharia e Ciências Exatas.
 
 [![Controle-Linear](https://img.shields.io/badge/⚙️_Controle_Linear-Sistemas_Lineares_&_Estabilidade-708090)](https://github.com/IsabelCasPe/Controle-Linear) 
 **Sistemas Lineares e Controle** com modelagem e estabilidade.
