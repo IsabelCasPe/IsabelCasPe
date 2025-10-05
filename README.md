@@ -1,10 +1,4 @@
 <!-- HERO -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🌌_APPLIED_MATHEMATICS_💎♾️_-0A3D91?style=for-the-badge&logo=cosmosdb&logoColor=white&labelColor=001F3F&color=0A3D91">
-</p>
-<h1 align="center">
-  🌌 <span style="color:#0A3D91;">APPLIED MATHEMATICS 💎♾️</span>
-</h1>
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #FFD700, #0A3D91); -webkit-background-clip: text; color: transparent;">
     🌌 APPLIED MATHEMATICS 💎♾️
