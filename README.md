@@ -27,6 +27,13 @@
 
 [![GitHub](https://img.shields.io/badge/🐱_GitHub-IsabelCasPe-0047AB?logo=github&logoColor=white)](https://github.com/IsabelCasPe)
 
+⚡ *Turning chaos into quant insights — one model at a time.*
+---
+
+✨🌌 Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece. 💻🌀
+**![Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece.](mandelbrot_quantum_dynamic_presentation.gif)** 
+
+---
 
 ## 🔢 Featured Repositories
 
@@ -83,11 +90,7 @@
 [![IsAcolab_notebooks](https://img.shields.io/badge/💻_IsAcolab_notebooks_🔒_Projetos_de_acesso_reservado(VIP)-lightgrey)]()  
 [![RedesFinanceiras](https://img.shields.io/badge/🌐_Redes_Financeiras_🔒_Projetos_de_acesso_reservado(VIP)-blue)]()  
 [![ModelosEstocasticos](https://img.shields.io/badge/📊_Modelos_Estocástico_🔒_Projetos_de_acesso_reservado(VIP)-purple)]()
----
-⚡ *Turning chaos into quant insights — one model at a time.*
----
-✨🌌 Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece. 💻🌀
-**![Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece.](mandelbrot_quantum_dynamic_presentation.gif)** 
+
 ---
 
 ## 📜 License
