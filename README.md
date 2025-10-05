@@ -35,46 +35,46 @@ Descubra meus repositórios com exercícios, códigos e aplicações em **Matem�
 ---
 
 [![QuantDataScienceX](https://img.shields.io/badge/🌐📊_QuantDataScienceX-Ciência_de_Dados_&_Finanças-1E90FF)](https://github.com/IsabelCasPe/QuantDataScienceX)  
-### Ciência de Dados com foco em aplicações quantitativas e financeiras.
+ **Ciência de Dados** com foco em aplicações quantitativas e financeiras.
 
 [![Fourier-EDP-Solutions](https://img.shields.io/badge/📚_Fourier_EDP_Solutions-Equações_Diferenciais_&_Fourier-4169E1)](https://github.com/IsabelCasPe/Fourier-EDP-Solutions)  
-## Exercícios de Séries de Fourier e Equações Diferenciais Parciais.
+**Exercícios de Séries de Fourier e Equações Diferenciais Parciais.**
 
 [![Calculus-I-III](https://img.shields.io/badge/📘_Calculus_I–III-Cálculo_Aplicado_às_Finanças-0A3D91)](https://github.com/IsabelCasPe/Calculus-I-III)  
-## Curso completo de Cálculo I a III com aplicações em Finanças.
+**Curso completo de Cálculo I a III com aplicações em Finanças.**
 
 [![SuperProf_Alunos](https://img.shields.io/badge/📖_SuperProf_Alunos-Materiais_Didáticos_e_Tutoriais-2E8B57)](https://github.com/IsabelCasPe/SuperProf_Alunos)  
-## Materiais para alunos, com tutoriais e exercícios guiados.
+**Materiais para alunos**, com tutoriais e exercícios guiados.
 
 [![Sistemas-Dinamicos](https://img.shields.io/badge/💻_Sistemas_Dinâmicos-Caos_&_Fractais-008080)](https://github.com/IsabelCasPe/Sistemas-Dinamicos)  
-## Códigos e simulações de **caos, fractais e dinâmicas não lineares**.
+**Códigos e simulações** de **caos, fractais e dinâmicas não lineares**.
 
 [![Cadeia-de-Markov](https://img.shields.io/badge/📝_Cadeia_de_Markov-Processos_Estocásticos-6A5ACD)](https://github.com/IsabelCasPe/Cadeia-de-Markov)  
-## Notas e exercícios sobre **processos estocásticos** e cadeias de Markov.
+**Notas e exercícios** sobre **processos estocásticos** e cadeias de Markov.
 
 [![Numerical-Methods](https://img.shields.io/badge/🧮_Numerical_Methods-Métodos_Numéricos-4682B4)](https://github.com/IsabelCasPe/Numerical-Methods)  
 ## **Métodos Numéricos** aplicados à Engenharia e Ciências Exatas.
 
 [![Controle-Linear](https://img.shields.io/badge/⚙️_Controle_Linear-Sistemas_Lineares_&_Estabilidade-708090)](https://github.com/IsabelCasPe/Controle-Linear) 
-##  **Sistemas Lineares e Controle** com modelagem e estabilidade.
+**Sistemas Lineares e Controle** com modelagem e estabilidade.
 
 [![Finance-Math](https://img.shields.io/badge/📊_Finance_Math-Matemática_Financeira-1E3A8A)](https://github.com/IsabelCasPe/Finance-Math) 
-## **Matemática Financeira e Engenharia Econômica** — cálculos e simulações.
+**Matemática Financeira e Engenharia Econômica** — cálculos e simulações.
 
 [![Applied-Math-Colloquia](https://img.shields.io/badge/📚_Applied_Math_Colloquia-Matemática_Avançada-2F4F4F)](https://github.com/IsabelCasPe/Applied-Math-Colloquia)  
-## Leituras e **materiais avançados** em Matemática Aplicada.
+**Leituras** e **materiais avançados** em Matemática Aplicada.
 
 [![Optimal-Control-Systems](https://img.shields.io/badge/📚_Optimal_Control_Systems-Controle_Ótimo-191970)](https://github.com/IsabelCasPe/Optimal-Control-Systems) 
-## **Controle Ótimo** com aplicações em Finanças e Engenharia.
+**Controle Ótimo** com aplicações em Finanças e Engenharia.
 
 [![Math-Dynamics](https://img.shields.io/badge/🎥_Math_Dynamics-Animações_Matemáticas-00008B)](https://github.com/IsabelCasPe/Math-Dynamics) 
-## Animações de **fenômenos matemáticos e equações dinâmicas.**
+**Animações** de **fenômenos matemáticos e equações dinâmicas.**
 
 [![CalculusComedyGold](https://img.shields.io/badge/🤣_Calculus_Comedy_Gold-Humor_Matemático-FF69B4)](https://github.com/IsabelCasPe/CalculusComedyGold)  
-## Piadas inteligentes e humor matemático — *porque rir também é derivar!*
+**Piadas inteligentes e humor matemático** — *porque rir também é derivar!*
 
 [![Pipeline-Analytics-Dashboard](https://img.shields.io/badge/⚙️📈_Pipeline_Analytics_Dashboard-Funil_Comercial_e_Visualização-4682B4)](https://github.com/IsabelCasPe/Pipeline-analytics-dashboard)  
-## Um painel **enxuto e claro** para acompanhar o funil comercial — *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.  
+**Um painel** **enxuto e claro** para acompanhar o funil comercial — *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.  
 > *“O dado conta a história; o desenho só abre caminho.”* 💙
 ---
 
