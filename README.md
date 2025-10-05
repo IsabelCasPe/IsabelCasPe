@@ -18,6 +18,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.01969-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.01969)
 
 🔭 Atualmente desenvolvendo projetos no repositório  [![QuantDataScienceX](https://img.shields.io/badge/🌐📊_QuantDataScienceX-Ciência_de_Dados_&_Finanças-1E90FF)](https://github.com/IsabelCasPe/QuantDataScienceX)
+
 🌱 Aprimorando análises com **Python, LaTeX e Machine Learning** aplicados a finanças.  
 💬 Adoro compartilhar conhecimento em **Cálculo, EDOs, EDPs e Estatística**.  
 📫 Como me encontrar:  
