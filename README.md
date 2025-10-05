@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🌌_APPLIED_MATHEMATICS_💎♾️_-0A3D91?style=for-the-badge&logo=cosmosdb&logoColor=white&labelColor=001F3F&color=0A3D91">
+  <img src="https://img.shields.io/badge/🌌_APPLIED_MATHEMATICS_💎♾️_-0A3D91?style=for-the-badge&logo=cosmosdb&logoColor=white&labelColor=001F3F&color=1E90FF">
 </p>
 
 
