@@ -1,13 +1,10 @@
-<!-- COSMIC HERO -->
+<!-- 🌌 COSMIC HERO -->
 <p align="center">
   <img src="https://github.com/IsabelCasPe/IsabelCasPe/blob/main/Applied_Maths.png" alt="💎 APPLIED MATHEMATICS ♾️" width="100%">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/💎_APPLIED_MATHEMATICS_♾️-0A3D91?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=001F3F&color=1E90FF">
-</p>
-
-<p align="center">
   <a href="#pt">
     <img src="https://img.shields.io/badge/🇧🇷_PT-009B3A?style=for-the-badge&labelColor=002776&logo=readthedocs&logoColor=white" alt="Português">
   </a>
@@ -24,9 +21,6 @@
   <img src="https://img.shields.io/badge/Status-Active-FFD700?style=flat">
   <img src="https://img.shields.io/badge/License-MIT-DAA520?style=flat">
   <img src="https://img.shields.io/badge/Made%20with-💛_Love-FF69B4?style=flat">
-</p>
-
-<p align="center">
   <a href="#galeria--gifs">
     <img src="https://img.shields.io/badge/🌀_Galeria_de_GIFs-DAA520?style=for-the-badge&logo=apachespark&logoColor=white">
   </a>
@@ -34,9 +28,6 @@
     <img src="https://img.shields.io/badge/⚙️_Instalação-FFD700?style=for-the-badge&logo=python&logoColor=white">
   </a>
 </p>
-
-
-
 
 ## **Hi! there, I'm Ana Isabel Castillo! 👋**  
 
