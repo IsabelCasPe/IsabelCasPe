@@ -146,7 +146,6 @@
   </a>
 </p>
 <img src="https://raw.githubusercontent.com/IsabelCasPe/IsabelCasPe/output/snake.svg" alt="Chiquerrima Snake" style="background: linear-gradient(to right, #1A1A2E, #00D4FF); padding: 10px; border-radius: 10px; max-width: 100%;">
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/✨_Ciência,_arte_e_liberdade_💫_minha_tríade_infinita.-FFD700?style=for-the-badge&logo=starship&logoColor=white">
