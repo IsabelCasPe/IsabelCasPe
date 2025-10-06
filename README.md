@@ -173,6 +173,7 @@ Este perfil e os repositórios aqui destacados estão sob a licença :
 
 <p align="center">
   <img src="mandelbrot_set.gif" alt="@IsabelCasPe - Maths Quantum Ultra Mandelbrot" width="400">
-  <br>
+ </p> 
+ 
   [![✨🌌 Arte + Ciência: Python + Matplotlib — Meu fractal é imbatível! 😎💻🌀](https://img.shields.io/badge/✨🌌_Arte_+_Ciência:_Python_+_Matplotlib_—_Meu_fractal_é_imbatível!_😎💻🌀-FFD700?style=for-the-badge&logo=python&logoColor=white&labelColor=0A3D91&color=1E90FF)]()
-</p>
+
