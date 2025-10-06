@@ -8,16 +8,6 @@
 </p>
 
 <p align="center">
-  <strong>“Ciência, arte e liberdade — minha tríade perfeita.”</strong><br>
-  <sub>@IsabelCasPe – Maths 💙</sub>
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🌌_APPLIED_MATHEMATICS_💎_♾️_-0A3D91?style=for-the-badge&logo=cosmosdb&logoColor=white&labelColor=001F3F" alt="Applied Mathematics Title">
-</p>
-
-<p align="center">
   <a href="#pt">
     <img src="https://img.shields.io/badge/🇧🇷_PT-009B3A?style=for-the-badge&labelColor=002776&logo=readthedocs&logoColor=white" alt="Português">
   </a>
@@ -207,4 +197,13 @@ Este perfil e os repositórios aqui destacados estão sob a licença :
 
 <p align="center">
   <img src="Isa_Maths.png" alt="Assinatura IsabelCasPe – Maths" width="60%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌌_APPLIED_MATHEMATICS_💎_♾️_-0A3D91?style=for-the-badge&logo=cosmosdb&logoColor=white&labelColor=001F3F" alt="Applied Mathematics Title">
+</p>
+
+<p align="center">
+  <strong>“Ciência, arte e liberdade — minha tríade perfeita.”</strong><br>
+  <sub>@IsabelCasPe – Maths 💙</sub>
 </p>
