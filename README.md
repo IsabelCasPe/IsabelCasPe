@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Python-3.10%2B-1E90FF?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Status-Active-FFD700?style=flat">
   <img src="https://img.shields.io/badge/License-MIT-DAA520?style=flat">
-  <img src="https://img.shields.io/badge/Made%20with-💛_Love-FF69B4?style=flat">
+  <img src="https://img.shields.io/badge/Made%20with-💛_Love-C0C0C0?style=flat">
 </p>
 
 ## **Hi! there, I'm Ana Isabel Castillo! 👋**  
@@ -43,9 +43,9 @@
 
 [![Website](https://img.shields.io/badge/🌍_Site_Pessoal-isabelcaspe.github.io-FFD700?logo=githubpages&logoColor=white)](https://isabelcaspe.github.io/)
 
-[![Superprof](https://img.shields.io/badge/📚_Superprof-Aulas_de_Matemática_Aplicada-FF69B4?logo=googleclassroom&logoColor=white)](https://www.superprof.com.br/doutoranda-matematica-aplicada-ime-usp-mestre-ciencias-pela-pme-escola-politecnica-usp-ofereco-reforco-calculo.html)
+[![Superprof](https://img.shields.io/badge/📚_Superprof-Aulas_de_Matemática_Aplicada-F0E68C?logo=googleclassroom&logoColor=white)](https://www.superprof.com.br/doutoranda-matematica-aplicada-ime-usp-mestre-ciencias-pela-pme-escola-politecnica-usp-ofereco-reforco-calculo.html)
 
-[![GitHub](https://img.shields.io/badge/🐱_GitHub-IsabelCasPe-FFD700?logo=github&logoColor=black)](https://github.com/IsabelCasPe)
+[![GitHub](https://img.shields.io/badge/🐱_GitHub-IsabelCasPe-C0C0C0?logo=github&logoColor=black)](https://github.com/IsabelCasPe)
 
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_Turning_chaos_into_quant_insights_—_one_model_at_a_time._🌌-FFD700?style=for-the-badge&logo=python&logoColor=white" alt="assinatura_quantica"/>
