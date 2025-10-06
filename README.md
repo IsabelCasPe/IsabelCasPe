@@ -137,6 +137,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7077--5971-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7077-5971)
 
 ---
+
 **🐍**🔳🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🔳**🐍**                                                                                                                                                                                                                                  
 <p align="center">
   <a href="#">
@@ -144,9 +145,7 @@
     <img src="https://img.shields.io/badge/💎_APPLIED_MATHEMATICS_♾️-0A3D91?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=001F3F&color=1E90FF">
   </a>
 </p>
-
 <img src="https://raw.githubusercontent.com/IsabelCasPe/IsabelCasPe/output/snake.svg" alt="Chiquerrima Snake" style="background: linear-gradient(to right, #1A1A2E, #00D4FF); padding: 10px; border-radius: 10px; max-width: 100%;">
-
 ---
 
 <p align="center">
