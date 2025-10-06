@@ -96,11 +96,16 @@
 
 ## 🔒 **Projetos de acesso reservado (VIP)**  
 
-[![RiskMeasures](https://img.shields.io/badge/📘_Risk_Measures_🔒_(VIP)-FFD700)]()  
-[![MachineLearning](https://img.shields.io/badge/🤖_Machine_Learning_🔒_(VIP)-DAA520)]()  
-[![IsAcolab_notebooks](https://img.shields.io/badge/💻_IsAcolab_notebooks_🔒_(VIP)-C0C0C0)]()  
-[![RedesFinanceiras](https://img.shields.io/badge/🌐_Redes_Financeiras_🔒_(VIP)-1E90FF)]()  
-[![ModelosEstocasticos](https://img.shields.io/badge/📊_Modelos_Estocásticos_🔒_(VIP)-8A2BE2)]()
+[![RiskMeasures](https://img.shields.io/badge/📘_Risk_Measures_🔒_(VIP)-0A3D91)]()  
+[![MachineLearning](https://img.shields.io/badge/🤖_Machine_Learning_🔒_(VIP)-1E90FF)]()  
+[![IsAcolab_notebooks](https://img.shields.io/badge/💻_IsAcolab_notebooks_🔒_(VIP)-4682B4)]()  
+[![RedesFinanceiras](https://img.shields.io/badge/🌐_Redes_Financeiras_🔒_(VIP)-4169E1)]()  
+[![ModelosEstocasticos](https://img.shields.io/badge/📊_Modelos_Estocásticos_🔒_(VIP)-2E8B57)]()  
+[![Bifurcation_Models](https://img.shields.io/badge/🌀_Bifurcation_Models_🔒_(VIP)-4B0082)]()  
+[![Estrategias-Financeiras](https://img.shields.io/badge/🌍_Estrategias_Financeiras_🔒_(VIP)-D4AF37)]()  
+[![ProjetoInterEstelar](https://img.shields.io/badge/👩🏻‍🚀_Projeto_Inter_Estelar_🔒_(VIP)-483D8B)]()  
+[![EDO_Curso_Avanzado](https://img.shields.io/badge/💻_EDO_Curso_Avanzado_🔒_(VIP)-5F9EA0)]()  
+[![EDP--Isa](https://img.shields.io/badge/💎_EDP_Isa_🔒_(VIP)-FFD700)]()
 
 ---
 
