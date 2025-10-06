@@ -190,3 +190,7 @@ Este perfil e os repositórios aqui destacados estão sob a licença :
   </a>
 </p>
 
+
+<p align="center">
+  <img src="Isa_Maths.png" alt="Assinatura IsabelCasPe – Maths" width="60%">
+</p>
