@@ -144,14 +144,13 @@ Este perfil e os repositórios aqui destacados estão sob a licença :
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 
 ---
-🐍
+**🐍**
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/🐍_Snake_eating_my_contributions!_-FFD700?style=for-the-badge&logo=python&logoColor=white&labelColor=0A3D91&color=1E90FF" alt="🐍 Snake eating my contributions!">
     <img src="https://img.shields.io/badge/💎_APPLIED_MATHEMATICS_♾️-0A3D91?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=001F3F&color=1E90FF">
   </a>
 </p>
-🐍
 
 <img src="https://raw.githubusercontent.com/IsabelCasPe/IsabelCasPe/output/snake.svg" alt="Chiquerrima Snake" style="background: linear-gradient(to right, #1A1A2E, #00D4FF); padding: 10px; border-radius: 10px; max-width: 100%;">
 
