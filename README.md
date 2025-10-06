@@ -58,7 +58,12 @@
 </p>
 
 
-[![💻🌀 Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra — e a beleza matemática aparece.](https://img.shields.io/badge/💻🌀_Arte_+_Ciência:_Python_+_Matplotlib_renderizando_um_mergulho_no_Mandelbrot-FFD700?style=for-the-badge&logo=python&logoColor=white&labelColor=0A3D91&color=1E90FF)]()
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/💻🌀_Arte_+_Ciência:_Python_+_Matplotlib_renderizando_um_mergulho_no_Mandelbrot-FFD700?style=for-the-badge&logo=python&logoColor=white&labelColor=0A3D91&color=1E90FF" alt="Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o brasinho. O fractal se desdobra — e a beleza matemática aparece.">
+  </a>
+</p>
+
 
 **![Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece.](mandelbrot_quantum_dynamic_presentation.gif)** 
 
@@ -175,5 +180,9 @@ Este perfil e os repositórios aqui destacados estão sob a licença :
   <img src="mandelbrot_set.gif" alt="@IsabelCasPe - Maths Quantum Ultra Mandelbrot" width="400">
  </p> 
  
-  [![✨🌌 Arte + Ciência: Python + Matplotlib — Meu fractal é imbatível! 😎💻🌀](https://img.shields.io/badge/✨🌌_Arte_+_Ciência:_Python_+_Matplotlib_—_Meu_fractal_é_imbatível!_😎💻🌀-FFD700?style=for-the-badge&logo=python&logoColor=white&labelColor=0A3D91&color=1E90FF)]()
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/✨🌌_Arte_+_Ciência:_Python_+_Matplotlib_—_Meu_fractal_é_imbatível!_😎💻🌀-FFD700?style=for-the-badge&logo=python&logoColor=white&labelColor=0A3D91&color=1E90FF" alt="✨🌌 Arte + Ciência: Python + Matplotlib — Meu fractal é imbatível! 😎💻🌀">
+  </a>
+</p>
 
