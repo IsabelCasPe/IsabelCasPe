@@ -13,11 +13,11 @@
   <a href="#es">
     <img src="https://img.shields.io/badge/🇪🇸_ES-DAA520?style=for-the-badge&labelColor=AA151B&logo=gitbook&logoColor=white" alt="Español">
   </a>
-  <a href="#galeria--gifs">
-    <img src="https://img.shields.io/badge/🌀_Galeria_de_GIFs-DAA520?style=for-the-badge&logo=apachespark&logoColor=white">
-  </a>
   <a href="#instalação--installation--instalación">
     <img src="https://img.shields.io/badge/⚙️_Instalação-FFD700?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="#galeria--gifs">
+    <img src="https://img.shields.io/badge/🌀_Galeria_de_GIFs-DAA520?style=for-the-badge&logo=apachespark&logoColor=white">
   </a>
 </p>
 
@@ -148,6 +148,7 @@ Este perfil e os repositórios aqui destacados estão sob a licença :
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/🐍_Snake_eating_my_contributions!_-FFD700?style=for-the-badge&logo=python&logoColor=white&labelColor=0A3D91&color=1E90FF" alt="🐍 Snake eating my contributions!">
+    <img src="https://img.shields.io/badge/💎_APPLIED_MATHEMATICS_♾️-0A3D91?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=001F3F&color=1E90FF">
   </a>
 </p>
 
