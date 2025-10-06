@@ -14,6 +14,12 @@
   <a href="#es">
     <img src="https://img.shields.io/badge/🇪🇸_ES-DAA520?style=for-the-badge&labelColor=AA151B&logo=gitbook&logoColor=white" alt="Español">
   </a>
+  <a href="#galeria--gifs">
+    <img src="https://img.shields.io/badge/🌀_Galeria_de_GIFs-DAA520?style=for-the-badge&logo=apachespark&logoColor=white">
+  </a>
+  <a href="#instalação--installation--instalación">
+    <img src="https://img.shields.io/badge/⚙️_Instalação-FFD700?style=for-the-badge&logo=python&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
@@ -21,12 +27,6 @@
   <img src="https://img.shields.io/badge/Status-Active-FFD700?style=flat">
   <img src="https://img.shields.io/badge/License-MIT-DAA520?style=flat">
   <img src="https://img.shields.io/badge/Made%20with-💛_Love-FF69B4?style=flat">
-  <a href="#galeria--gifs">
-    <img src="https://img.shields.io/badge/🌀_Galeria_de_GIFs-DAA520?style=for-the-badge&logo=apachespark&logoColor=white">
-  </a>
-  <a href="#instalação--installation--instalación">
-    <img src="https://img.shields.io/badge/⚙️_Instalação-FFD700?style=for-the-badge&logo=python&logoColor=white">
-  </a>
 </p>
 
 ## **Hi! there, I'm Ana Isabel Castillo! 👋**  
