@@ -73,7 +73,7 @@
 [![Fourier-EDP-Solutions](https://img.shields.io/badge/📚_Fourier_EDP_Solutions-Equações_Diferenciais_&_Fourier-DAA520)](https://github.com/IsabelCasPe/Fourier-EDP-Solutions)  
 **Exercícios de Séries de Fourier e Equações Diferenciais Parciais.**
 
-[![Calculus-I-III](https://img.shields.io/badge/📘_Calculus_I–III-Cálculo_Aplicado_às_Finanças-FFD700)](https://github.com/IsabelCasPe/Calculus-I-III)  
+[![Calculus-I-III](https://img.shields.io/badge/📘_Calculus_I–III-Cálculo_Aplicado_às_Finanças-C0C0C0)](https://github.com/IsabelCasPe/Calculus-I-III)  
 **Curso completo de Cálculo I a III com aplicações em Finanças.**
 
 [![SuperProf_Alunos](https://img.shields.io/badge/📖_SuperProf_Alunos-Materiais_Didáticos_e_Tutoriais-F0E68C)](https://github.com/IsabelCasPe/SuperProf_Alunos)  
