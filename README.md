@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💎_APPLIED_MATHEMATICS_♾️-0A3D91?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=001F3F&color=1E90FF">
-  <a href="#pt">
+   <a href="#pt">
     <img src="https://img.shields.io/badge/🇧🇷_PT-009B3A?style=for-the-badge&labelColor=002776&logo=readthedocs&logoColor=white" alt="Português">
   </a>
   <a href="#en">
@@ -14,6 +13,7 @@
   <a href="#es">
     <img src="https://img.shields.io/badge/🇪🇸_ES-DAA520?style=for-the-badge&labelColor=AA151B&logo=gitbook&logoColor=white" alt="Español">
   </a>
+  <img src="https://img.shields.io/badge/💎_APPLIED_MATHEMATICS_♾️-0A3D91?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=001F3F&color=1E90FF">
   <a href="#galeria--gifs">
     <img src="https://img.shields.io/badge/🌀_Galeria_de_GIFs-DAA520?style=for-the-badge&logo=apachespark&logoColor=white">
   </a>
