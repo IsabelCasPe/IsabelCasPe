@@ -137,13 +137,6 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7077--5971-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7077-5971)
 
 ---
-
-## 📜 License
-
-Este perfil e os repositórios aqui destacados estão sob a licença :
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
-
----
 **🐍**
 <p align="center">
   <a href="#">
