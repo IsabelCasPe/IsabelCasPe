@@ -3,14 +3,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🌌_APPLIED_MATHEMATICS_💎_♾️_-0A3D91?style=flat&logo=cosmosdb&logoColor=white&labelColor=001F3F&color=0A3D91&scale=4" alt="Applied Mathematics Title">
 </p>
----
+
+
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-1E90FF?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-FFD700)
 ![License](https://img.shields.io/badge/License-MIT-DAA520)
 ![Made with ❤](https://img.shields.io/badge/Made%20with-💛_Love-FF69B4)
 
-**PT · EN · ES** · ![Galeria](https://img.shields.io/badge/Galeria-de-Gif-DAA520)  ![Instalação](https://img.shields.io/badge/Instalation-FFD700)
+**PT · EN · ES**  ![Galeria](https://img.shields.io/badge/Galeria-de-Gif-DAA520)  ![Instalação](https://img.shields.io/badge/Instalation-FFD700)
 
 
 ## ✨ **Hi there, I'm Ana Isabel Castillo! 👋**  
