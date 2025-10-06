@@ -1,24 +1,3 @@
-<!-- ✨ COSMIC HERO ✨ -->
-<p align="center">
-  <img src="https://github.com/IsabelCasPe/IsabelCasPe/blob/main/Isa_Maths.png" alt="💎 APPLIED MATHEMATICS ♾️" width="100%">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💎_APPLIED_MATHEMATICS_♾️-0A3D91?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=001F3F&color=1E90FF">
-</p>
-
-<br>
-
-<p align="center">
-  <strong>“Ciência, arte e liberdade — minha tríade perfeita.”</strong> ✨  
-  <br>
-  <sub><span style="color:#FFD700;"><b>@IsabelCasPe – Maths 💙</b></span></sub>
-</p>
-
-<br><br>
-
 <!-- COSMIC HERO -->
 <p align="center">
   <img src="https://github.com/IsabelCasPe/IsabelCasPe/blob/main/Applied_Maths.png" alt="💎 APPLIED MATHEMATICS ♾️" width="100%">
