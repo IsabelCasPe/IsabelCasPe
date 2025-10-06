@@ -1,5 +1,9 @@
 <!-- HERO -->
 <p align="center">
+  <img src="Applied_Maths.png" alt="💎 APPLIED MATHEMATICS ♾️ @IsabelCasPe – Maths" width="100%">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/🌌_APPLIED_MATHEMATICS_💎_♾️_-0A3D91?style=for-the-badge&logo=cosmosdb&logoColor=white&labelColor=001F3F" alt="Applied Mathematics Title">
 </p>
 
