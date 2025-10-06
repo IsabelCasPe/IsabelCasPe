@@ -11,7 +11,9 @@
 ![License](https://img.shields.io/badge/License-MIT-DAA520)
 ![Made with ❤](https://img.shields.io/badge/Made%20with-💛_Love-FF69B4)
 
-**PT · EN · ES**  ![Galeria](https://img.shields.io/badge/Galeria-de-Gif-DAA520)  ![Instalação](https://img.shields.io/badge/Instalation-FFD700)
+**PT · EN · ES** 
+![Galeria](https://img.shields.io/badge/Galeria-de-Gif-DAA520) 
+![Instalação](https://img.shields.io/badge/Instalation-FFD700)
 
 
 ## ✨ **Hi there, I'm Ana Isabel Castillo! 👋**  
