@@ -1,18 +1,36 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🌌_APPLIED_MATHEMATICS_💎_♾️_-0A3D91?style=flat&logo=cosmosdb&logoColor=white&labelColor=001F3F&color=0A3D91&scale=4" alt="Applied Mathematics Title">
+  <img src="https://img.shields.io/badge/🌌_APPLIED_MATHEMATICS_💎_♾️_-0A3D91?style=for-the-badge&logo=cosmosdb&logoColor=white&labelColor=001F3F" alt="Applied Mathematics Title">
 </p>
 
+<p align="center">
+  <a href="#pt">
+    <img src="https://img.shields.io/badge/🇧🇷_PT-009B3A?style=for-the-badge&labelColor=002776&logo=readthedocs&logoColor=white" alt="Português">
+  </a>
+  <a href="#en">
+    <img src="https://img.shields.io/badge/🇬🇧_EN-1E90FF?style=for-the-badge&labelColor=001F3F&logo=bookstack&logoColor=white" alt="English">
+  </a>
+  <a href="#es">
+    <img src="https://img.shields.io/badge/🇪🇸_ES-DAA520?style=for-the-badge&labelColor=AA151B&logo=gitbook&logoColor=white" alt="Español">
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-1E90FF?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-Active-FFD700?style=flat">
+  <img src="https://img.shields.io/badge/License-MIT-DAA520?style=flat">
+  <img src="https://img.shields.io/badge/Made%20with-💛_Love-FF69B4?style=flat">
+</p>
 
-![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-1E90FF?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-FFD700)
-![License](https://img.shields.io/badge/License-MIT-DAA520)
-![Made with ❤](https://img.shields.io/badge/Made%20with-💛_Love-FF69B4)
+<p align="center">
+  <a href="#galeria--gifs">
+    <img src="https://img.shields.io/badge/🌀_Galeria_de_GIFs-DAA520?style=for-the-badge&logo=apachespark&logoColor=white">
+  </a>
+  <a href="#instalação--installation--instalación">
+    <img src="https://img.shields.io/badge/⚙️_Instalação-FFD700?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+</p>
 
-**PT · EN · ES** 
-[![Galeria](https://img.shields.io/badge/🌀_Galeria_de_GIFs-DAA520?style=for-the-badge&logo=apachespark&logoColor=white)](#galeria--gifs)
-[![Instalação](https://img.shields.io/badge/⚙️_Instalação-FFD700?style=for-the-badge&logo=python&logoColor=white)](#instalação--installation--instalación)
 
 
 
