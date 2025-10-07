@@ -1,4 +1,4 @@
-<!-- 🌌 COSMIC HERO -->
+<!-- 🌌 COSMIC HERO -->  
 <p align="center">
   <img src="https://github.com/IsabelCasPe/IsabelCasPe/blob/main/Applied_Maths.png" alt="💎 APPLIED MATHEMATICS ♾️" width="100%">
 </p>
