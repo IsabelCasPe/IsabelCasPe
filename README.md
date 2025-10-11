@@ -159,21 +159,8 @@
   <img src="https://img.shields.io/badge/⚡_Turning_chaos_into_quant_insights_—_one_model_at_a_time._🌌-1E3A8A?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=0A3D91">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/✨_Artur_Ávila_Approved-FFD700?style=for-the-badge&logo=starship&logoColor=white&labelColor=0A3D91" alt="Artur Ávila Approved">
-</p>
 
 ---
-
-<p align="center">
-  <img src="mandelbrot_set.gif" alt="@IsabelCasPe - Maths Quantum Ultra Mandelbrot" width="400">
- </p> 
- 
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/✨🌌_Arte_+_Ciência:_Python_+_Matplotlib_—_Meu_fractal_é_imbatível!_😎💻🌀-FFD700?style=for-the-badge&logo=python&logoColor=white&labelColor=0A3D91&color=1E90FF" alt="✨🌌 Arte + Ciência: Python + Matplotlib — Meu fractal é imbatível! 😎💻🌀">
-  </a>
-</p>
 
 
 <p align="center">
