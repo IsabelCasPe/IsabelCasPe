@@ -106,6 +106,9 @@
 [![CalculusComedyGold](https://img.shields.io/badge/🤣_Calculus_Comedy_Gold-Humor_Matemático-FFD700)](https://github.com/IsabelCasPe/CalculusComedyGold)  
 **Piadas inteligentes e humor matemático** — *porque rir também é derivar!*  
 
+[![MathVault](https://img.shields.io/badge/💎_MathVault_♾️📚-Acervo_Isabel-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A3D91&color=FFD700)](https://github.com/IsabelCasPe/IsabelCasPe-MathVault)  
+**Acervo pessoal de livros e papers** — *um cofre cósmico de saberes em Matemática Aplicada e Ciência de Dados.* 🌌
+
 [![Pipeline-Analytics-Dashboard](https://img.shields.io/badge/⚙️📈_Pipeline_Analytics_Dashboard-Funil_Comercial_e_Visualização-F0E68C)](https://github.com/IsabelCasPe/Pipeline-analytics-dashboard)  
 **Um painel** **enxuto e claro** para acompanhar o funil comercial — *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.  
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1E90FF.svg)](#technologies-used)
