@@ -68,6 +68,9 @@
 
 💎 **Descubra meus repositórios** com **códigos, exercícios e simulações** em **Matemática Aplicada, Sistemas Dinâmicos e Finanças Quantitativas**: 
 
+[![PapersPublicados](https://img.shields.io/badge/📄_Papers_Publicados-Research_Isabel-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A3D91&color=32CD32)](https://github.com/IsabelCasPe/Papers-Publicados)  
+**Artigos, notas e working papers** — *pesquisa em risco sistêmico, redes financeiras e análise matemática contemporânea.*
+
 [![QuantDataScienceX](https://img.shields.io/badge/🌐📊_QuantDataScienceX-Ciência_de_Dados_&_Finanças-FFD700)](https://github.com/IsabelCasPe/QuantDataScienceX)  
 **Ciência de Dados** com foco em aplicações quantitativas e financeiras.
 
