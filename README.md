@@ -69,7 +69,7 @@
 💎 **Descubra meus repositórios** com **códigos, exercícios e simulações** em **Matemática Aplicada, Sistemas Dinâmicos e Finanças Quantitativas**: 
 
 [![PapersPublicados](https://img.shields.io/badge/📄_Papers_Publicados-Research_Isabel-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A3D91&color=32CD32)](https://github.com/IsabelCasPe/Papers-Publicados)  
-**Artigos, notas e working papers** — *pesquisa em risco sistêmico, redes financeiras e análise matemática contemporânea.*
+**Artigos, notas e working papers** - *pesquisa em risco sistêmico, redes financeiras e análise matemática contemporânea.*
 
 [![QuantDataScienceX](https://img.shields.io/badge/🌐📊_QuantDataScienceX-Ciência_de_Dados_&_Finanças-FFD700)](https://github.com/IsabelCasPe/QuantDataScienceX)  
 **Ciência de Dados** com foco em aplicações quantitativas e financeiras.
@@ -96,7 +96,7 @@
 **Sistemas Lineares e Controle** com modelagem e estabilidade.
 
 [![Finance-Math](https://img.shields.io/badge/📊_Finance_Math-Matemática_Financeira-FFD700)](https://github.com/IsabelCasPe/Finance-Math)  
-**Matemática Financeira e Engenharia Econômica** — cálculos e simulações.
+**Matemática Financeira e Engenharia Econômica** - cálculos e simulações.
 
 [![Applied-Math-Colloquia](https://img.shields.io/badge/📚_Applied_Math_Colloquia-Matemática_Avançada-DAA520)](https://github.com/IsabelCasPe/Applied-Math-Colloquia)  
 **Leituras** e **materiais avançados** em Matemática Aplicada.
@@ -108,13 +108,13 @@
 **Animações** de **fenômenos matemáticos e equações dinâmicas.**
 
 [![CalculusComedyGold](https://img.shields.io/badge/🤣_Calculus_Comedy_Gold-Humor_Matemático-FFD700)](https://github.com/IsabelCasPe/CalculusComedyGold)  
-**Piadas inteligentes e humor matemático** — *porque rir também é derivar!*  
+**Piadas inteligentes e humor matemático** - *porque rir também é derivar!*  
 
 [![MathVault](https://img.shields.io/badge/💎_MathVault_♾️📚-Acervo_Isabel-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A3D91&color=FFD700)](https://github.com/IsabelCasPe/IsabelCasPe-MathVault)  
-**Acervo pessoal de livros e papers** — *um cofre de Matemática Aplicada e Ciência de Dados.* 🌌
+**Acervo pessoal de livros e papers** - *um cofre de Matemática Aplicada e Ciência de Dados.* 🌌
 
 [![Pipeline-Analytics-Dashboard](https://img.shields.io/badge/⚙️📈_Pipeline_Analytics_Dashboard-Funil_Comercial_e_Visualização-F0E68C)](https://github.com/IsabelCasPe/Pipeline-analytics-dashboard)  
-**Um painel** **enxuto e claro** para acompanhar o funil comercial — *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.  
+**Um painel** **enxuto e claro** para acompanhar o funil comercial - *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.  
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1E90FF.svg)](#technologies-used)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-FFD700.svg)](#dashboard)  
 > *“O dado conta a história; o desenho só abre caminho.”* 💛
@@ -179,6 +179,6 @@
 </p>
 
 <p align="center">
-  <strong>“Ciência, arte e liberdade — minha tríade perfeita.”</strong><br>
-  <sub>@IsabelCasPe – Maths 💙</sub>
+  <strong>“Ciência, arte e liberdade - minha tríade perfeita.”</strong><br>
+  <sub>@IsabelCasPe - Maths 💙</sub>
 </p>
