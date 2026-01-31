@@ -114,7 +114,7 @@
 **Acervo pessoal de livros e papers** - *um cofre de Matemática Aplicada e Ciência de Dados.* 🌌
 
 [![Pipeline-Analytics-Dashboard](https://img.shields.io/badge/⚙️📈_Pipeline_Analytics_Dashboard-Funil_Comercial_e_Visualização-F0E68C)](https://github.com/IsabelCasPe/Pipeline-analytics-dashboard)  
-**Um painel** **enxuto e claro** para acompanhar o funil comercial - *stages*, conversões e **cycle time** — com delicadeza visual e rigor analítico.  
+**Um painel** **enxuto e claro** para acompanhar o funil comercial - *stages*, conversões e **cycle time** - com delicadeza visual e rigor analítico.  
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-1E90FF.svg)](#technologies-used)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-FFD700.svg)](#dashboard)  
 > *“O dado conta a história; o desenho só abre caminho.”* 💛
