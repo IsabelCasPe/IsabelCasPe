@@ -50,7 +50,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_Turning_chaos_into_quant_insights_—_one_model_at_a_time._🌌-FFD700?style=for-the-badge&logo=python&logoColor=white" alt="assinatura_quantica"/>
 </p>
-
+**![IBOV Candles 01](IBOV_BloombergCandles01.gif)**
+---
 **![3I/Atlas Vibes](LokiandAtlasV2.gif)**
 
 <p align="center">
