@@ -47,6 +47,8 @@
 
 [![GitHub](https://img.shields.io/badge/🐱_GitHub-IsabelCasPe-C0C0C0?logo=github&logoColor=black)](https://github.com/IsabelCasPe)
 
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@isabel__maths-C0C0C0?logo=instagram&logoColor=black)](https://www.instagram.com/isabel_maths/)
+
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_Turning_chaos_into_quant_insights_—_one_model_at_a_time._🌌-FFD700?style=for-the-badge&logo=python&logoColor=white" alt="assinatura_quantica"/>
 </p>
