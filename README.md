@@ -76,6 +76,11 @@
 **![Arte + Ciência: Python + Matplotlib renderizando um mergulho no Mandelbrot até o “brasinho”. O fractal se desdobra - e a beleza matemática aparece.](mandelbrot_quantum_dynamic_presentation.gif)** 
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/📊_Bayesian_Inference_in_Motion_•_Geometry_•_Probability_•_Visualization-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+**![Bayesian MC](bayesian_monte_carlo_pi.gif)**
 
 ## 🌠 **Featured Repositories** 🔢
 
