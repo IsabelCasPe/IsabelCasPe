@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/📊_Bayesian_Inference_in_Motion_•_Geometry_•_Probability_•_Visualization-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-**![Bayesian MC](bayesian_monte_carlo_pi.gif)**
+**![Bayesian MC](bayesian_monte_carlo_pi.gif)** 
 
 ## 🌠 **Featured Repositories** 🔢
 
