@@ -1,6 +1,6 @@
 <!-- 🌌 COSMIC HERO --> 
 <p align="center"> <img src="https://github.com/IsabelCasPe/IsabelCasPe/blob/main/cover03.png" alt="💎 APPLIED MATHEMATICS ♾️" width="100%"> </p>
-<p align="center">
+<p align="center"> 
   <a href="#pt">
     <img src="https://img.shields.io/badge/🇧🇷_PT-2F6FA3?style=for-the-badge&labelColor=163A5F&logo=readthedocs&logoColor=white">
   </a>
