@@ -1,33 +1,35 @@
-<!-- 🌌 COSMIC HERO -->  
+<!-- 🌌 COSMIC HERO --> <p align="center"> <img src="https://github.com/IsabelCasPe/IsabelCasPe/blob/main/figure_cover2.png" alt="💎 APPLIED MATHEMATICS ♾️" width="100%"> </p>
 <p align="center">
-  <img src="https://github.com/IsabelCasPe/IsabelCasPe/blob/main/figure_cover2.png" alt="💎 APPLIED MATHEMATICS ♾️" width="100%">
-</p>
-
-<p align="center">
-   <a href="#pt">
-    <img src="https://img.shields.io/badge/🇧🇷_PT-009B3A?style=for-the-badge&labelColor=002776&logo=readthedocs&logoColor=white" alt="Português">
+  <a href="#pt">
+    <img src="https://img.shields.io/badge/🇧🇷_PT-2F6FA3?style=for-the-badge&labelColor=163A5F&logo=readthedocs&logoColor=white">
   </a>
+
   <a href="#en">
-    <img src="https://img.shields.io/badge/🇬🇧_EN-1E90FF?style=for-the-badge&labelColor=001F3F&logo=bookstack&logoColor=white" alt="English">
+    <img src="https://img.shields.io/badge/🇬🇧_EN-2F6FA3?style=for-the-badge&labelColor=163A5F&logo=bookstack&logoColor=white">
   </a>
+
   <a href="#es">
-    <img src="https://img.shields.io/badge/🇪🇸_ES-DAA520?style=for-the-badge&labelColor=AA151B&logo=gitbook&logoColor=white" alt="Español">
+    <img src="https://img.shields.io/badge/🇪🇸_ES-2F6FA3?style=for-the-badge&labelColor=163A5F&logo=gitbook&logoColor=white">
   </a>
+
   <a href="#instalação--installation--instalación">
-    <img src="https://img.shields.io/badge/⚙️_Instalação-FFD700?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/⚙️_Installation-2F6FA3?style=for-the-badge&labelColor=163A5F&logo=python&logoColor=white">
   </a>
+
   <a href="#galeria--gifs">
-    <img src="https://img.shields.io/badge/🌀_Galeria_de_GIFs-DAA520?style=for-the-badge&logo=apachespark&logoColor=white">
+    <img src="https://img.shields.io/badge/🌀_GIF_Gallery-2F6FA3?style=for-the-badge&labelColor=163A5F&logo=apachespark&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-1E90FF?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Status-Active-FFD700?style=flat">
-  <img src="https://img.shields.io/badge/License-MIT-DAA520?style=flat">
-  <img src="https://img.shields.io/badge/Made%20with-💛_Love-C0C0C0?style=flat">
-</p>
+  <img src="https://img.shields.io/badge/Python-3.10%2B-2F6FA3?style=flat&logo=python&logoColor=white">
 
+  <img src="https://img.shields.io/badge/Status-Active-B8860B?style=flat">
+
+  <img src="https://img.shields.io/badge/License-MIT-B8860B?style=flat">
+
+  <img src="https://img.shields.io/badge/Made%20with-💛_Love-BFC7D5?style=flat&logoColor=white">
+</p>
 ## **Hi! there, I'm Ana Isabel Castillo! 👋**  
 
 *Pesquisadora e professora* em **Matemática Aplicada** e **Finanças Quantitativas**, com paixão por **Ciência de Dados, Risco Sistêmico e Modelos em Rede**.  
