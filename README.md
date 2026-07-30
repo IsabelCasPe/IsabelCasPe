@@ -30,6 +30,7 @@
 
   <img src="https://img.shields.io/badge/Made%20with-💛_Love-BFC7D5?style=flat&logoColor=white">
 </p>
+
 ## **Hi! there, I'm Ana Isabel Castillo! 👋**  
 
 *Pesquisadora e professora* em **Matemática Aplicada** e **Finanças Quantitativas**, com paixão por **Ciência de Dados, Risco Sistêmico e Modelos em Rede**.  
