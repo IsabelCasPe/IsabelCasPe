@@ -95,17 +95,8 @@
        width="850">
 </p>
 
-A visual exploration of the biquadratic extension
-
-**Q(√2, √3) / Q**
-
-and its Galois correspondence, with
-
-**Gal(L/Q) ≅ V₄.**
-
+A visual exploration of the biquadratic extension   **Q(√2, √3) / Q** and its Galois correspondence, with  **Gal(L/Q) ≅ V₄.** 
 **Intermediate fields • Automorphisms • Subgroups • Symmetry**
-
-© @IsabelCasPe – Maths ∞
 
 ## 🌠 **Featured Repositories** 🔢
 
