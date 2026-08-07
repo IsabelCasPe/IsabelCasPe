@@ -86,6 +86,27 @@
 
 **![Bayesian MC](bayesian_monte_carlo_pi.gif)** 
 
+![Galois Theory](https://img.shields.io/badge/Galois_Theory-Symmetry_Behind_the_Roots-8A2BE2?style=for-the-badge)
+![Galois Group](https://img.shields.io/badge/Gal(L%2FQ)-V₄-00BFFF?style=for-the-badge)
+![Theory in Motion](https://img.shields.io/badge/Theory-in_Motion-FFD700?style=for-the-badge)
+
+<p align="center">
+  <img src="galois_theory_visual_GIF.gif"
+       width="850">
+</p>
+
+A visual exploration of the biquadratic extension
+
+**Q(√2, √3) / Q**
+
+and its Galois correspondence, with
+
+**Gal(L/Q) ≅ V₄.**
+
+**Intermediate fields • Automorphisms • Subgroups • Symmetry**
+
+© @IsabelCasPe – Maths ∞
+
 ## 🌠 **Featured Repositories** 🔢
 
 💎 **Descubra meus repositórios** com **códigos, exercícios e simulações** em **Matemática Aplicada, Sistemas Dinâmicos e Finanças Quantitativas**: 
