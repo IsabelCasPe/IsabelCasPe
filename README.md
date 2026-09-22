@@ -43,6 +43,7 @@
 [![Published in JAES](https://img.shields.io/badge/Published-JAES-gold?style=for-the-badge&logo=bookstack&logoColor=black)](https://ritha.eu/journals/JAES/issues/93/articles/7)
 [![Journal Article](https://img.shields.io/badge/Journal-JAES-2F6FA3?style=for-the-badge&logo=googlescholar&logoColor=white)](https://ritha.eu/journals/JAES/issues/93/articles/7)
 [![Published in JAES](https://img.shields.io/badge/Published-JAES-2F6FA3?style=for-the-badge&logo=googlescholar&logoColor=white)](https://ritha.eu/journals/JAES/issues/93/articles/7) 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.22202-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.22202)
 
 [![Plain-Language Summary](https://img.shields.io/badge/summary-plain--language-2F6FA3?logo=readme&logoColor=white)](https://gist.science/paper/2604.19796) 
 
