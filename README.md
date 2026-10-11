@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-2F6FA3?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3.15.0%2B-2F6FA3?style=flat&logo=python&logoColor=white">
 
   <img src="https://img.shields.io/badge/Status-Active-B8860B?style=flat">
 
