@@ -60,7 +60,7 @@
 
 [![GitHub](https://img.shields.io/badge/🐱_GitHub-IsabelCasPe-C0C0C0?logo=github&logoColor=black)](https://github.com/IsabelCasPe)
 
-[![Instagram](https://img.shields.io/badge/📸_Instagram-@isabel__maths-C0C0C0?logo=instagram&logoColor=black)](https://www.instagram.com/isabel_maths/)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@isabel__maths-C0C0C0?logo=instagram&logoColor=black)](https://www.instagram.com/isabelcaspe_maths?vrfl=aTh5bG41b2NvMXNo&utm_source=qr)
 
 [![YouTube](https://img.shields.io/badge/▶_YouTube-IsabelCasPe_Maths_∞-C0C0C0?logo=youtube&logoColor=black)](https://www.youtube.com/@isabelcastillo4230)
 
