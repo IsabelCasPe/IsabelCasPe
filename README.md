@@ -177,7 +177,7 @@ A visual exploration of the biquadratic extension   **Q(√2, √3) / Q** and it
 
 ## 📬 **Contato**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana_Isabel_Castillo_Pereda-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-isabel-castillo-pereda-142b0996/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana_Isabel_Castillo_Pereda-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-isabel-castillo-pereda-61b62784/)
 [![Email](https://img.shields.io/badge/📧_E--mail-anacp20%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:anacp20@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7077--5971-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-7077-5971)
 
